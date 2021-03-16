@@ -3,5 +3,3 @@
 http://tvserver3.roarzone.info:25461/live/free/roarzone/13.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS" group-title="Bangla News",DBC NEWS
 http://tvserver3.roarzone.info:25461/live/free/roarzone/7.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla News",ATN NEWS
-http://tvserver3.roarzone.info:25461/live/free/roarzone/49.m3u8
