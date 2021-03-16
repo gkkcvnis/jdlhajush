@@ -1,11 +1,7 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="Jamuna Tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla News",Jamuna Tv
-http://10.16.100.203:8082/bangla/jamuna_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla News",Jamuna Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" group-title="Bangla News",Jamuna Tv
 http://tvserver3.roarzone.info:25461/live/free/roarzone/13.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla News",DBC NEWS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS" group-title="Bangla News",DBC NEWS
 http://tvserver3.roarzone.info:25461/live/free/roarzone/7.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo=" tvg-name="DBC News" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla News",DBC News
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla News",ATN NEWS
 http://tvserver3.roarzone.info:25461/live/free/roarzone/49.m3u8
