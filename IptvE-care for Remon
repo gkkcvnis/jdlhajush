@@ -1,12 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/46YufOoqek0/hqdefault.jpg
-https://bdlivetv.xyz:2096/Sp0rts/tsports/chunks.m3u8?nimblesessionid=497&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjEgNjoxNTozOSBQTSZoYXNoX3ZhbHVlPXlzdzdTQzZSN01yV0d3MHVqT1ZYbGc9PSZ2YWxpZG1pbnV0ZXM9NQ==
-http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=b149e1de071b46454fd03a0215edaecae6afe56a-4ab6dadf468e2fa6278f624848ecc911-1617699694-1617688894
-
-#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2020/10/colorsbangla.jpg
-http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=fe50cb6ab18e9f3d2dbeab4531f0a25ffac157b4-3d7127917b3ee9ed47288b15df92b670-1617658815-1617648015
-http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=88341e2307993361ec566638892a0d8b8cad3b79-31c95a110a5b787de858db65eea753f6-1617699454-1617688654
-
 #EXTINF:-1 tvg-logo="https://d2ehtpitw6c7w.cloudfront.net/sun_bangla_logo.png" group-title="New",55.Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 
@@ -106,6 +98,41 @@ PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTG9OWFkwbEdkdmtFVlE1R2FRbFdZeFV6VmhSblVYRjJj
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="* BDIX21",Al Jazeera
 PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTGhKWFpscFhZcXhXWXZrRVZRNUdhUWxXWXhVelZoUm5VWEYyY0dSV2JQUkZVejRrVmxkbFJGUjFRS1ZrV05aMVJqWm5aNTFrZUpGalQ2VkdNVkJETVVwVlM0ZFZXeWtqUmlwblJsRjJiRlIyWkJSbFQyRWxlbkpsTlZSVVNIQlRSRTFVZTRrblQ0aFRhTmxUVkZKR2NTaERXNVpWYmtsblZhTjJMMFFETjYwMmJqNUNaaTkyWmhwbUxsSlhkMEZtYm5sMmN3MVdaMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony max" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/147
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star jalsha" tvg-logo="https://icon2.cleanpng.com/20180530/ryk/kisspng-star-jalsha-jalsha-movies-star-india-television-ch-jalsha-movies-5b0e9a59a35f31.9595129715276836736692.jpg
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/863
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star jalsha" tvg-logo="https://icon2.cleanpng.com/20180530/ryk/kisspng-star-jal
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/193
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="colors bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/106
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star gold" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/161
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" Tsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/787
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" star sports" tvg-logo=" http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/151
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports 2" tvg-logo="https://img.favpng.com/10/17/10/star-sports-star-india-television-channel-sony-ten-2-png-favpng-uuyETKtmMTCbpZD1eCcrqWShh.jpg
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/200
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star movies" tvg-logo=" http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/151
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="jalsha movies" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/203
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony aath" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/191
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3gXQutG" group-title="* BDIX21",Manoranjan Movies
 NFUzTXQ1Q2VsUm1icDlDY3dnRE5mNVdhdU1YWnBaM2JONVdZcTVXWXk5bWJoMWtMeWNUTXk4eWNzaDJMMFZtYnVrMmR1eEdidU1uTHpCSGNoSmphdFl6TXdNV0x0OXlMNk1IYzBSSGE=
